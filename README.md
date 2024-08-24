@@ -1,2 +1,2 @@
-# Akhil-Tesla
-Config files for my GitHub profile.
+* Akhil
+ i like Artificial intelligence and Neural Networks
