@@ -2,7 +2,7 @@ i like Artificial intelligence and Neural Networks
 
 #  **Hi, I'm Akhil ** 👋
 
-Welcome to my GitHub! I’m a passionate and motivated B.Tech Computer Science undergraduate from **Narsaraopeta College Of Engineering, narsaraopeta**. I love building web apps, working with MERN stack, and diving deep into full-stack development.
+Welcome to my GitHub! I’m a passionate and motivated B.Tech Computer Science undergraduate from **JNTUA College Of Engineering, Kalikiri**. I love building Machine learning mode, working with MERN stack, and diving deep into full-stack development.
 
 ## 🚀 **About Me**
 - **Machine Learning | Data science | Cybersecurity Enthusiast**
