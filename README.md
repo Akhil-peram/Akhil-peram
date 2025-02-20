@@ -1,6 +1,6 @@
 i like Artificial intelligence and Neural Networks
 
-# Hi there, I'm Akhil Ram! 👋
+# Hi there, I'm Akhil! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open source projects, cloud computing, and artificial intelligence. I love experimenting with new technologies and finding innovative solutions to challenging problems.
 
@@ -18,19 +18,18 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ### Programming Languages
 
-- JavaScript
+- C 
 - Python
 - Java
 - C++
-- TypeScript
+- JavaScript 
 
 ### Frameworks and Libraries
 
-- React
-- Node.js
-- Express
+- Pytorch
+- JupyterLab
+- Anaconda 
 - TensorFlow
-- PyTorch
 
 ### Tools and Platforms
 
@@ -42,11 +41,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📈 GitHub Stats
 
-![Akhil Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-ram&show_icons=true&theme=radical)
+![Akhil peram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-peram&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![Akhil Ram's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akhil-ram&theme=radical)
+![Akhil Ram's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akhil-peram&theme=radical)
 
 ## 📝 Latest Blog Posts
 
@@ -57,6 +56,5 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 - LinkedIn: [Akhil Ram](https://www.linkedin.com/in/akhil-peram/)
 - Twitter: [@akhilram](https://twitter.com/akhil-peram)
-- Personal Website: [akhilram.dev](https://akhilram.dev)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech. 😄
