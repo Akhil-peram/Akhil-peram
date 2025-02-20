@@ -54,7 +54,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Akhil Ram](https://www.linkedin.com/in/akhil-peram/)
-- Twitter: [@akhilram](https://twitter.com/akhil-peram)
+- LinkedIn: [Akhil peram](https://www.linkedin.com/in/akhil-peram/)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech. 😄
