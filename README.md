@@ -40,7 +40,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📈 GitHub Stats
 
-![Akhil peram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-peram&show_icons=true&theme=radical)
+- ![Akhil peram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-peram&show_icons=true&theme=radical)
++ ![Akhil peram's GitHub stats](https://github-readme-stats-git-masterrstaa.vercel.app/api?username=Akhil-peram&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
