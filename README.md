@@ -21,7 +21,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Python
 - Java
 - C++
-- JavaScript 
 
 ### Frameworks and Libraries
 
@@ -34,18 +33,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 - Git & GitHub
 - Docker
-- Kubernetes
-- AWS
-- Azure
 
-## 🏆 GitHub Trophies
-
-![Akhil Ram's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akhil-peram&theme=radical)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Connect with Me
 
