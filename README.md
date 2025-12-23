@@ -2,7 +2,7 @@ i like Artificial intelligence and Neural Networks
 
 # Hi there, I'm Akhil! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open source projects, cloud computing, and artificial intelligence. I love experimenting with new technologies, building innovative solutions, and sharing my knowledge with the community.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open source projects, cloud computing, and artificial intelligence. I love experimenting with new technologies[...]  
 
 ## 🚀 About Me
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ### Programming Languages
 
-- C 
+- C  
 - Python
 - Java
 - C++
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 - Pytorch
 - JupyterLab
-- Anaconda 
+- Anaconda  
 - TensorFlow
 
 ### Tools and Platforms
@@ -37,10 +37,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Kubernetes
 - AWS
 - Azure
-
-## 📈 GitHub Stats
-
-![Akhil peram's GitHub stats](https://github-readme-stats-git-masterrstaa.vercel.app/api?username=Akhil-peram&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
