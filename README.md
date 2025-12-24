@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## GitHub Stats
 
 [![Akhil-peram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-peram&show_icons=true&count_private=true&theme=tokyonight&hide=prs)](https://github.com/Akhil-peram)
-
+## Project (Crop Recommender)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-peram&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook)](https://github.com/Akhil-peram)
 
 
