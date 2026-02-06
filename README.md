@@ -1,7 +1,7 @@
 
 # Hi there, I'm Akhil! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open source projects, cloud computing, and artificial intelligence. I love experimenting with new technologies[...]  
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open source projects, cloud computing, and artificial intelligence. I love experimenting with new technologies 
 
 ## 🚀 About Me
 
