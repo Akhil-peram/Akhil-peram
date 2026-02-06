@@ -1,4 +1,3 @@
-i like Artificial intelligence and Neural Networks
 
 # Hi there, I'm Akhil! 👋
 
