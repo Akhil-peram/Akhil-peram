@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🚦 Project Status
 
-![Build Status](https://github.com/akhil-peram/REPO_NAME/actions/workflows/ci.yml/badge.svg)
+![Build Status](https://github.com/akhil-peram/python/actions/workflows/ci.yml/badge.svg)
 
 
 
