@@ -36,16 +36,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ### Github Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=akhil-peram&theme=tokyonight)
 
-## Project (Crop Recommender)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-peram&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook&cache_seconds=1800)
-
-## 🚦 Project Status
-
-![Build Status](https://github.com/akhil-peram/python/actions/workflows/ci.yml/badge.svg)
-
-
-
 ## 📫 Connect with Me
 
 - LinkedIn: [Akhil peram](https://www.linkedin.com/in/peram-akhil/)
