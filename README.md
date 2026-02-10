@@ -40,6 +40,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-peram&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook&cache_seconds=1800)
 
+## 🚦 Project Status
+
+![Build Status](https://github.com/akhil-peram/REPO_NAME/actions/workflows/ci.yml/badge.svg)
+
+
 
 ## 📫 Connect with Me
 
