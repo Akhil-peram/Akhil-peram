@@ -32,9 +32,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Git & GitHub
 - Docker
 
-## GitHub Stats
-
-![Akhil-peram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-peram&show_icons=true&count_private=true&theme=tokyonight&hide=prs&cache_seconds=1800)
+  
+### Github Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=akhil-peram&theme=tokyonight)
 
 ## Project (Crop Recommender)
 
