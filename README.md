@@ -1,13 +1,12 @@
-
 # Hi there, I'm Akhil! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open source projects, cloud computing, and artificial intelligence. I love experimenting with new technologies 
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open source projects, cloud computing, and artificial intelligence. I love experimenting with new technologies.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on several exciting open source projects.
-- 🌱 I’m constantly learning and exploring new technologies in the fields of AI, ML, and cloud computing.
-- 👯 I’m looking to collaborate on open source projects and innovative tech solutions.
+- 🔭 I'm currently working on several exciting open source projects.
+- 🌱 I'm constantly learning and exploring new technologies in the fields of AI, ML, and cloud computing.
+- 👯 I'm looking to collaborate on open source projects and innovative tech solutions.
 - 💬 Ask me about anything related to software development, cloud computing, and AI.
 - 📫 How to reach me: [akhil01011@gmail.com](mailto:akhil01011@gmail.com)
 - ⚡ Fun fact: I love Gaming and exploring the great outdoors.
@@ -35,9 +34,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## GitHub Stats
 
-[![Akhil-peram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-peram&show_icons=true&count_private=true&theme=tokyonight&hide=prs)](https://github.com/Akhil-peram)
+![Akhil-peram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-peram&show_icons=true&count_private=true&theme=tokyonight&hide=prs&cache_seconds=1800)
+
 ## Project (Crop Recommender)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-peram&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook)](https://github.com/Akhil-peram)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-peram&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook&cache_seconds=1800)
 
 
 ## 📫 Connect with Me
