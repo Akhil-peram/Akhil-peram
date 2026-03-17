@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Pytorch
 - JupyterLab
 - Anaconda  
-- TensorFlow
+- Flask
 
 ### Tools and Platforms
 
