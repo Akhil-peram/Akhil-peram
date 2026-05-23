@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Python
 - Java
 - C++
+- Go
 
 ### Frameworks and Libraries
 
@@ -26,11 +27,15 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - JupyterLab
 - Anaconda  
 - Flask
+- FastAPI
+- PostreSQL
+- SQLiteDB
 
 ### Tools and Platforms
 
 - Git & GitHub
 - Docker
+- Linux
 
   
 ### Github Stats
@@ -39,5 +44,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 📫 Connect with Me
 
 - LinkedIn: [Akhil peram](https://www.linkedin.com/in/peram-akhil/)
+- Portfolio: [Akhil.dev](https://akhil-peram.github.io/home)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech. 😄
