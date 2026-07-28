@@ -47,11 +47,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Akhil-peram&theme=algolia&no-frame=true&column=4)
 
-![](https://komarev.com/ghpvc/?username=Akhil-peram&color=blueviolet&style=flat)
+![Trophy](https://komarev.com/ghpvc/?username=Akhil-peram&color=blueviolet&style=flat)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhil-peram&theme=github-dark)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=black)
