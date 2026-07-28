@@ -51,6 +51,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhil-peram&theme=github-dark)
 
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=black)
