@@ -41,11 +41,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ### Github Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=akhil-peram&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhil-peram&show_icons=true&theme=github_dark&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akhil-peram&theme=github-dark-blue&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-peram&layout=compact&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-peram&layout=compact&theme=github_dark&hide_border=true)
 
 ![Snake animation](https://raw.githubusercontent.com/Akhil-peram/Akhil-peram/output/github-contribution-grid-snake-dark.svg)
 
