@@ -39,7 +39,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
   
 ### Github Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=akhil-peram&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhil-peram&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhil-peram&theme=github-dark)
 
