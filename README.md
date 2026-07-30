@@ -44,9 +44,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhil-peram&theme=github-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-peram&layout=compact&theme=tokyonight)
-
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=black)
